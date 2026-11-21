@@ -1,4 +1,4 @@
-# Transform Lab — Kelompok Thiya & Jei
+# Transform Lab
 
 Aplikasi Unity 3D bertema **Coordinate Systems and Transformations**, dengan tampilan bergaya Desmos: grid 3D, orbit camera, dan panel samping berisi lima tab.
 
