@@ -1,0 +1,11 @@
+# Shared by default: both members review.
+*                                   @artificialangel @jeipra
+
+# Thiya: tabs 1-3 (Coordinate System, Position, Scale)
+/Assets/Scripts/Tabs/Coordinate*/   @artificialangel
+/Assets/Scripts/Tabs/Position*/     @artificialangel
+/Assets/Scripts/Tabs/Scale*/        @artificialangel
+
+# Jei: tabs 4-5 (Hierarchy, Rotation)
+/Assets/Scripts/Tabs/Hierarchy*/    @jeipra
+/Assets/Scripts/Tabs/Rotation*/     @jeipra
